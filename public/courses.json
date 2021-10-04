@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Become a product Manager learn the skills & job.",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-1.jpg",
+      "lessons": "43 Lessons",
+      "type": "Art & Design",
+      "price": "Free",
+      "ranking": "4.5(44)",
+      "instractor": "Jim Séchen"
+    },
+    {
+      "name": "Fundamentals of music theory Learn new",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-2.jpg",
+      "lessons": "72 Lesson",
+      "type": "Mechinical",
+      "price": "$32.00",
+      "ranking": "4.5(44)",
+      "instractor": "Barry Tone"
+    },
+    {
+      "name": "Bases Matemáticas dios Álgebra Ecuacion",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-7.jpg",
+      "lessons": "43 Lesson",
+      "type": "Development",
+      "price": "$46.00",
+      "ranking": "4.5(40)",
+      "instractor": "Samuel Serif"
+    },
+    {
+      "name": "Strategy law and organization Foundation",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-7.jpg",
+      "lessons": "14 Lesson",
+      "type": "Development",
+      "price": "$46.00",
+      "ranking": "3.5(55)",
+      "instractor": "Elon Gated"
+    },
+    {
+      "name": "Strategy law and organization Foundation",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-3.jpg",
+      "lessons": "14 Lesson",
+      "type": "Development",
+      "price": "$46.00",
+      "ranking": "3.5(55)",
+      "instractor": "Elon Gated"
+    },
+    {
+      "name": "The business Intelligence analyst Course 2022",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-4.jpg",
+      "lessons": "22 Lesson",
+      "type": "Marketing",
+      "price": "$62.00",
+      "ranking": "4.5(45)",
+      "instractor": "Eleanor Fant"
+    },
+    {
+      "name": "The business Intelligence analyst Course 2022",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-8.jpg",
+      "lessons": "22 Lesson",
+      "type": "Marketing",
+      "price": "$62.00",
+      "ranking": "4.5(42)",
+      "instractor": "Brian Cumin"
+    },
+    {
+      "name": "Build your media and Public presence",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-5.jpg",
+      "lessons": "18 Lesson",
+      "type": "Audio & Music",
+      "price": "$62.00",
+      "ranking": "4.5(32)",
+      "instractor": "Pelican Steve"
+    },
+    {
+      "name": "Creative writing through Storytelling",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-6.jpg",
+      "lessons": "13 Lesson",
+      "type": "UX Design",
+      "price": "$44.00",
+      "ranking": "4.5(32)",
+      "instractor": "Shahnewaz Sakil"
+    },
+    {
+      "name": "Creative writing through Storytelling",
+      "img": "https://themepure.net/template/educal/educal/assets/img/course/course-9.jpg",
+      "lessons": "25 Lesson",
+      "type": "UX Design",
+      "price": "$44.00",
+      "ranking": "4.5(32)",
+      "instractor": "Hilary Ouse"
+    }
+  ]

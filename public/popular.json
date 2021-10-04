@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Data Secience",
+      "desc": "Data is Everything"
+    },
+    {
+      "name": "Business",
+      "desc": "Improve your business"
+    },
+    {
+      "name": "Art & Design",
+      "desc": "Fun & Challenging"
+    },
+    {
+      "name": "Lifestyle",
+      "desc": "New Skills, New You"
+    },
+    {
+      "name": "Marketing",
+      "desc": "Improve your business"
+    },
+    {
+      "name": "Finance",
+      "desc": "Fun & Challenging"
+    },
+    {
+      "name": "Health & Fitness",
+      "desc": "Invest to Your Body"
+    },
+    {
+      "name": "Music",
+      "desc": "Major or Minor"
+    }
+    
+  ]
